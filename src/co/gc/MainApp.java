@@ -6,7 +6,7 @@ public class MainApp {
 		System.out.println("Hello World!");
 		System.out.println("My name is Antonella!");
 		
-		System.out.println("Hello, my name is Kyle. Happy Hallows");
+		System.out.println("Hello, my name is Unlucky. Happy Hallows");
 
 	}
 
